@@ -80,7 +80,7 @@ The _launch detector_ is affected by the following parameters:
 
 
 <span id="runway_launch"></span>
-### 跑到起飞
+### 跑道起飞
 
 Runway takeoffs can be used by vehicles with landing gear and and steerable wheel (only). You will first need to enable the wheel controller using the parameter [FW_W_EN](#FW_W_EN).
 
